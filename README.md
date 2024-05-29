@@ -10,7 +10,7 @@
 [<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />](https://github.com/ArturNakauchi) [<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />](https://github.com/ArturNakauchi) [<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />](https://github.com/ArturNakauchi) [<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" n/>](https://github.com/ArturNakauchi) [<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />](https://github.com/ArturNakauchi) [<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />](https://github.com/ArturNakauchi)
 
 ## 
-- :computer: Data Analyst looking for opportunities, in Vancouver, BC, Canada
+- :computer: Data Analyst looking for opportunities, 🏠 Vancouver, BC, Canada
 - :hammer_and_wrench: I specialize in:  `SQL` `Python` `Tableau` `Excel` `Power Bi` `R` ...
 - :writing_hand: I Write technical blogs on [Notion](https://arturnakauchi.notion.site/b3805eb202744a2cb81092f487e1b669?v=e6b15566148741f8b3a570ff966a89d3&pvs=74) (Medium Coming Soon)
 - ⚡ I enjoy: video games, tabletop/boardgames, piano and lifting weights.
