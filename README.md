@@ -18,5 +18,4 @@
 - 🔄Currently studying Deep Learning Models, Cloud ...
 
 ### Working on 🏃 
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" n/>
-  `Pytorch` 
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" n/>  `Pytorch` 
