@@ -18,4 +18,4 @@
 - 🔄Currently studying Deep Learning Models, Cloud ...
 
 ### Working on 🏃 
-Learning more on: `AWS` `Pytorch` `LeetCode`
+Learning more about: `AWS` `Pytorch` `LeetCode`
