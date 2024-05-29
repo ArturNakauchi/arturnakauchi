@@ -1,5 +1,6 @@
 Gmail
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"] (href="mailto:savioria247@gmail.comexample.com")
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /](href="mailto:savioria247@gmail.comexample.com")
+
 
 LinkedIn
 Github
