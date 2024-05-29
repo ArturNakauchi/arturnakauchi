@@ -9,14 +9,14 @@ Notion
 HackerRank
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 Medium
-[<img src= "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@savioria247)
+[<img src= "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" n/>](https://medium.com/@savioria247)
 
 
 Skills
 SQL
-[<img src=
+[<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />]
 Python
-[<img src=
+[<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>]
 Tableau
 [<img src=
 Excel
