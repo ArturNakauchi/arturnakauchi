@@ -13,10 +13,10 @@
 - :computer: Data Analyst looking for opportunities, in Vancouver, BC, Canada
 - :hammer_and_wrench: I specialize in:  `SQL` `Python` `Tableau` `Excel` `Power Bi` `R` ...
 - :writing_hand: I Write technical blogs on [Notion](https://arturnakauchi.notion.site/b3805eb202744a2cb81092f487e1b669?v=e6b15566148741f8b3a570ff966a89d3&pvs=74) (Medium Coming Soon)
-- ⚡ I enjoy: video games, tabletop/boardgames, piano and lifting weights 
+- ⚡ I enjoy: video games, tabletop/boardgames, piano and lifting weights.
 - :student: Bachelor in Computer Science and Diploma in Game Design and Google Data Analytics Professional
 - 🔄Currently studying Deep Learning Models, Cloud ...
 
 ### Working on 🏃 
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" n/>
-`Pytorch`
+`Pytorch` `Python`
