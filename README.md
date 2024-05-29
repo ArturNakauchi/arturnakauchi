@@ -1,5 +1,5 @@
 Gmail
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](savioria247@gmail.com)
+[< a href="mailto:john@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](savioria247@gmail.com)
 
 
 LinkedIn
