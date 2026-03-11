@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />](https://arturnakauchi.notion.site/b3805eb202744a2cb81092f487e1b669?v=e6b15566148741f8b3a570ff966a89d3)   
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/u/Nakauchi/)
 [<img src= "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" n/>](https://medium.com/@savioria247)
-
+   
     
 [<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />](https://github.com/ArturNakauchi) [<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />](https://github.com/ArturNakauchi) [<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />](https://github.com/ArturNakauchi) [<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" n/>](https://github.com/ArturNakauchi) [<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />](https://github.com/ArturNakauchi) [<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />](https://github.com/ArturNakauchi) 
 
