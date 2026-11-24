@@ -12,6 +12,6 @@
 - ⚡ I (still) enjoy: video games, tabletop/boardgames, piano and lifting weights.
 - :student: Bachelor in Computer Science, Diploma in Game Design and Google Data Analytics Professional. Currently working on Cybersecurity Associate's Degree @ Chattahoochee Technical College
     
-
+ 
 ### Working on 🏃 
 🔄 Learning more about: GRC, Forensics, AWS, OSINT, Red Team, RITA, Reverse Shells ...
